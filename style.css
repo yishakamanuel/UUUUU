@@ -1,0 +1,25 @@
+th {
+    background-color: wheat;
+    font-size: medium;
+    width: 20;
+    font-style: italic;
+}
+
+table {
+    width: 100%;
+    border: 3;
+    height: 8%;
+    background-color: white;
+}
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-style: italic;
+    font-size: 110%;
+}
+
+h2 {
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
